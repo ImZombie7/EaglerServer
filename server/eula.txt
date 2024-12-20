@@ -1,2 +1,3 @@
-#Made by IsmaelTech
+# Made by IsmaelTech
+# Modified by CrazyBoy95YT and ImZombie7
 eula=true
